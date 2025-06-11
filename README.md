@@ -34,4 +34,4 @@ Research ongoing...
 
 
 ## Disclaimer: ##
-I write this code just for practice / learning purpose, not for commercial use.
+I write this code just for practice / learning purpose, not intended for commercial use.
