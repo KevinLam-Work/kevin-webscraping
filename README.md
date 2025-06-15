@@ -13,25 +13,26 @@
 
 ![image](https://github.com/user-attachments/assets/15b56248-53e8-4e56-ba6a-93a8a38d60d5)
 
-(3) With the help of Last and Previous data points...
+(3) Extract the SVG path with CCS_SELECTOR
+
+![image](https://github.com/user-attachments/assets/2ece46c6-e440-454e-ac98-644aaf36e0bf)
+
+(4) Then, with the help of Last and Previous data points...
 
 ![image](https://github.com/user-attachments/assets/477484ab-1adf-4bc1-b132-64de318613f7)
 
-(4) Calculate the offset and coefficient (slope) and reverse engineer the original data points
+(5) Calculate the offset and coefficient (slope) and reverse engineer the original data points
 
 ![image](https://github.com/user-attachments/assets/38bf3472-7aac-4cc1-9d47-0854e6f18a3b)
 
-(5) Save as a dataframe for further procedures
+(6) Save as a dataframe for further procedures
 
 ![image](https://github.com/user-attachments/assets/157db0dc-d475-4b31-b422-677f6d22ad91)
 
-However...
 
-At this stage, I am stuck with the selenium part🥲, it somehow couldn't extract the path element with XPATH 
-"//*[@id="highcharts-inhwuj5-0"]/svg/g[7]/g[1]/path[1]"
-
-Research ongoing...
-
+## What's next? ##
+1. Format and export to excel, csv, etc.
+2. Make it reusable for other sources, not just for Australia
 
 ## Disclaimer: ##
 I write this code just for practice / learning purpose, not intended for commercial use.
