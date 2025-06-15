@@ -17,17 +17,19 @@
 
 ![image](https://github.com/user-attachments/assets/2ece46c6-e440-454e-ac98-644aaf36e0bf)
 
-(4) Then, with the help of Last and Previous data points...
+(4) Then, with the help of Chart Height, Last and Previous data points...
+
+![image](https://github.com/user-attachments/assets/6c2889eb-4504-4c4a-9a84-41bca39bf4d4)
 
 ![image](https://github.com/user-attachments/assets/477484ab-1adf-4bc1-b132-64de318613f7)
 
 (5) Calculate the offset and coefficient (slope) and reverse engineer the original data points
 
-![image](https://github.com/user-attachments/assets/38bf3472-7aac-4cc1-9d47-0854e6f18a3b)
+![image](https://github.com/user-attachments/assets/c50e77b9-0891-4a56-9108-2cfb6a8c8b1d)
 
 (6) Save as a dataframe for further procedures
 
-![image](https://github.com/user-attachments/assets/157db0dc-d475-4b31-b422-677f6d22ad91)
+![image](https://github.com/user-attachments/assets/ffb0dfe6-f473-442b-a02c-694b2a34ed4d)
 
 
 ## What's next? ##
